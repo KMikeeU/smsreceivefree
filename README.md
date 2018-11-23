@@ -7,6 +7,7 @@ To use this project, download as zip and unpack it, or directly clone from githu
 ##### Example
 You can use the examples like this:
 > python3 example_revive.py
+
 > python3 example_register.py
 
 The example fetches new incoming emails and returns every link contained in them.
