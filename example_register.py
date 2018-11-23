@@ -1,5 +1,5 @@
-﻿# Temp-Mail client used in this example https://github.com/KMikeeU/temp_mail
-import temp_mail
+﻿# Temp-Mail client used in this example https://github.com/KMikeeU/tmp_mail
+import tmp_mail
 import smsreceivefree
 import requests
 import random

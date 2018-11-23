@@ -14,7 +14,7 @@ The example fetches new incoming emails and returns every link contained in them
 
 
 ## Requirements
-The example_register.py requires the temp_mail module to be installed, you can get it here: https://github.com/KMikeeU/temp_mail
+The example_register.py requires the temp_mail module to be installed, you can get it here: https://github.com/KMikeeU/tmp_mail
 
 ## Note
 I, KMikeeU, the creator of this project, am not responsible for what you do with this project. Please do not use this for malicious purposes, thank you.
