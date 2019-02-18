@@ -8,7 +8,7 @@ print("Starting smsreceivefree")
 smsr = smsreceivefree.Client()
 
 
-revival_token = "https://www.smsreceivefree.com/activate?id=b266eeb7a784725e929c0451cdb9f8e352a85320"
+revival_token = "YOUR_TOKEN"
 smsr.authenticate(revival_token)
 
 nums = smsr.get_numbers()
